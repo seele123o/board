@@ -2,7 +2,7 @@ APP_NAME=smoke
 APP_ENV=local
 APP_KEY=
 APP_DEBUG=false
-APP_URL=http://byegirls.com
+APP_URL=
 LOG_CHANNEL=stack
 
 DB_CONNECTION=mysql
